@@ -1,22 +1,10 @@
-# STEP_SEM_3
+# Week PP 5 - Hackathon Practice Problems
 
-## Date: 22-08-2026
+Category C Practice Problems - Hackathon Theme
 
-**Today's Work:**
-- Completed Level 3 control flow problems (P1-P5):
-  - P1: Number Pyramid Pattern Printer (nested for loops)
-  - P2: ATM PIN Retry System (while loop with boolean flag, break)
-  - P3: Traffic Signal Simulator (for loop with switch, modulus operator)
-  - P4: Multiplication Table Generator with Input Validation (for loop with continue/break, nested loops)
-  - P5: Guess the Number Game (while loop with if/else if/else, break)
-- Created feature/session_1 branch with week_3/control_flow package structure
-- Added all 5 Java files to src/main/java/week_3/control_flow/class_problems/
-
-**Next Session Plan:**
-- Review assignment problems for control flow topic
-- Begin next topic (likely arrays or methods)
-
-**Issues Faced:**
-- None
-
----
+## Problems
+1. **Problem1_CurveScores.java** - Hackathon Score Curve Booster (Flat bonus to all scores)
+2. **Problem2_FindDuplicateTeam.java** - Duplicate Team Name Finder
+3. **Problem3_FindTopThreeScores.java** - Top-3 Podium Finder (Single pass)
+4. **Problem4_ClassifyRows.java** - Hackathon Seating Grid Optimizer (Quiet Zone/Buzzing Zone)
+5. **Problem5_ShortlistAndRank.java** - Placement Drive Shortlisting & Ranking Engine
